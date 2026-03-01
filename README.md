@@ -9,8 +9,7 @@ A satirical, AI-free, 100% procedurally generated Trump quote machine. Pure HTML
 
 ## 🔴 Live Demo
 
-> *(Add your GitHub Pages link here once deployed)*
-
+> https://medivh-dll.github.io/Donald-duck/ 
 ---
 
 ## 🧠 What It Does
